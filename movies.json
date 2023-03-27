@@ -1,0 +1,250 @@
+[
+    {
+        "_id" : 1,
+        "name" : "Everything Everywhere All At Onces",
+        "director" : "Daniel Kwan",
+        "release_date" : {
+            "year" : 2022,
+            "month" : 3,
+            "day" : 11
+            },
+        "gender" : "Science Fiction",
+        "cast" : [
+            "Michelle Yeoh",
+            "Ke Huy Quan",
+            "Stephanie Hsu"
+        ],
+        "country" : "United States",
+        "clasification" : "R",
+        "sinopsis" : "Una inmigrante china, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo explorando otros universos. Desafortunadamente, esto la lleva a una aventura aún mayor cuando se encuentra perdida en los mundos infinitos del multiverso."
+    },
+    {
+        "_id" : 2,
+        "name" : "Coda",
+        "director" : "Sian Heder",
+        "release_date" : {
+            "year" : 2021,
+            "month" : 8,
+            "day" : 13
+        },
+        "gender" : "Dramatic Comedy",
+        "cast" : [
+            "Emilia Jones",
+            "Troy Kotsur"
+        ],
+        "country" : "United States",
+        "clasification" : "R",
+        "sinopsis" : "Ruby es el unico miembro con audicion de una familia de sordos. Cada dia, antes de ir a clases, trabaja con sus padres y su hermano tratando de mantener a flote su negocio. En el coro del instituto, Ruby descubre su pasion por la musica."
+    },
+    {
+        "_id" : 3,
+        "name" : "Nomadland",
+        "director" : "Chloe Zhao",
+        "release_date" : {
+            "year" : 2020,
+            "month" : 9,
+            "day" : 11
+        },
+        "gender" : "Drama",
+        "cast" : [
+            "Frances McDormand",
+            "David Strathairn",
+            "Linda May"
+        ],
+        "country" : "United States",
+        "clasification" : "B",
+        "sinopsis" : "Tras el colapso economico de una zona rural en Nevada, Fern (Frances McDormand) decide subirse a su furgoneta y echarse a la carretera convertida en una nomada moderna, dispuesta a descubrir cómo es la vida en los margenes de la sociedad convencional."
+    },
+    {
+        "_id" : 4,
+        "name" : "Parasite",
+        "director" : "Bong Joon-ho",
+        "release_date" : {
+            "year" : 2019,
+            "month" : 5,
+            "day" : 21
+        },
+        "gender" : "Drama",
+        "cast" : [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong",
+            "Choi Woo-shik"
+        ],
+        "country" : "South Korea",
+        "clasification" : "R",
+        "sinopsis" : "Ki-taek (Kang-ho Song) es el patriarca de una familia pobre que malvive en un piso bajo en Seul, pagando las facturas a base de trabajos precarios y robando el wi-fi de los vecinos. Su situacion cambia un dia en el que su hijo logra que le recomienden para dar clases particulares de ingles en casa de los Park, una familia acaudalada. Utilizando su ingenio, el joven conseguira ganarse la confianza de la señora de la casa, y así ira introduciendo, poco a poco, al resto de sus familiares en distintos trabajos del servicio domestico. Será el comienzo de un engranaje incontrolable, del cual nadie saldra realmente indemne."
+    },
+    {
+        "_id" : 5,
+        "name" : "Green Book",
+        "director" : "Peter Farrelly",
+        "release_date" : {
+            "year" : 2018,
+            "month" : 9,
+            "day" : 18
+        },
+        "gender" : "Dramatic Comedy",
+        "cast" : [
+            "Viggo Mortensen",
+            "Mahershala Ali"
+        ],
+        "country" : "United States",
+        "clasification" : "PG-13",
+        "sinopsis" : "Un pianista afroamericano contrata a un rudo italoamericano para que sea su chofer y guardaespaldas durante una gira por el sur de los Estados Unidos en 1962, un viaje que les adentra en un territorio y una época subyugados al racismo."   
+    },
+    {
+        "_id" : 6,
+        "name" : "Million Dollar Baby",
+        "director" : "Clint Eastwood",
+        "release_date" : {
+            "year" : 2004,
+            "month" : 12,
+            "day" : 5
+        },
+        "gender" : "Drama",
+        "cast" : [
+            "Clint Eastwood",
+            "Hilary Swank"
+        ],
+        "country" : "United States",
+        "clasification" : "PG-13",
+        "sinopsis" : "Frankie Dunn es un entrenador que a pesar de su caracter arisco y su norma de no entrenar a chicas, acaba entrenando a Maggie Fitzgerald. Maggie es una chica que quiere ser boxeadora y esta dispuesta a hacer lo que sea para conseguirlo."   
+    },
+    {
+        "_id" : 7,
+        "name" : "The Lord Of The Rings: The Return Of The King",
+        "director" : "Peter Jackson",
+        "release_date" : {
+            "year" : 2003,
+            "month" : 12,
+            "day" : 17
+        },
+        "gender" : "Epic Fantasy",
+        "cast" : [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Liv Tyler",
+            "Viggo Mortensen",
+            "Sean Astin"
+        ],
+        "franchise" : "The Lord Of The Rings",
+        "country" : "United States",
+        "clasification" : "PG-13",
+        "sinopsis" : "La batalla por la Tierra Media ha empezado. Las fuerzas de Saruman han sido destruidas y por primera vez parece que hay una pequeña esperanza. Sin embargo, el poder de Sauron crece y su interes se centra en Gondor, el ultimo reducto de los hombres, cuyo heredero es Aragorn. Mientras, Frodo y Sam, guiados por Gollum, siguen su peligrosa mision a traves de Mordor para destruir el anillo."   
+    },
+    {
+        "_id" : 8,
+        "name" : "Braveheart",
+        "director" : "Mel Gibson",
+        "release_date" : {
+            "year" : 1995,
+            "month" : 5,
+            "day" : 19
+        },
+        "gender" : "Historic Drama",
+        "cast" : [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Ian Bannen",
+            "Brendan Gleeson"
+        ],
+        "country" : "United States",
+        "clasification" : "R",
+        "sinopsis" : "Las epicas aventuras de William Wallace, un rebelde escoces en su lucha por la independencia contra el poder de Inglaterra, en pleno medievo. Su legendario caracter y su epica historia de amor lo convirtieron en un heroe."   
+    },
+    {
+        "_id" : 9,
+        "name" : "Forrest Gump",
+        "director" : "Robert Zemeckis",
+        "release_date" : {
+            "year" : 1994,
+            "month" : 7,
+            "day" : 6
+        },
+        "gender" : "Drama",
+        "cast" : [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "country" : "United States",
+        "clasification" : "PG-13",
+        "sinopsis" : "Sentado en un banco en Savannah, Georgia, Forrest Gump espera al autobus. Mientras éste tarda en llegar, el joven cuenta su vida a las personas que se sientan a esperar con el. Aunque sufre un pequeño retraso mental, esto no le impide hacer cosas maravillosas. Sin entender del todo lo que sucede a su alrededor, Forrest toma partido en los eventos mas importantes de la historia de los Estados Unidos."   
+    },
+    {
+        "_id" : 10,
+        "name" : "Abominable",
+        "director" : "Jill Culton",
+        "release_date" : {
+            "year" : 2019,
+            "month" : 9,
+            "day" : 25
+        },
+        "gender" : "Animation",
+        "cast" : [
+            "Chloe Bennet",
+            "Albert Tsai",
+            "Tsai Chin"
+        ],
+        "country" : "United States",
+        "clasification" : "PG",
+        "sinopsis" : "La joven Yi descubre a un enorme yeti en la azotea de su edificio en Shanghai. La criatura se ha escapado del laboratorio donde estaba encerrada y esta siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir y los cuatro se embarcan en una epica aventura para reunir a la mitica criatura con su familia en el pico mas alto del mundo, el Everest."   
+    },
+    {
+        "_id" : 11,
+        "name" : "Joker",
+        "director" : "Todd Phillips",
+        "release_date" : {
+            "year" : 2019,
+            "month" : 9,
+            "day" : 25
+        },
+        "gender" : "Crimen",
+        "cast" : [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ],
+        "country" : "United States",
+        "clasification" : "R"  
+    },
+    {
+        "_id" : 12,
+        "name" : "Marvel's The Avengers",
+        "director" : "Joss Whedon",
+        "release_date" : {
+            "year" : 2012,
+            "month" : 4,
+            "day" : 11
+        },
+        "gender" : "Super Hero",
+        "cast" : [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth"
+        ],
+        "country" : "United States",
+        "clasification" : "PG"   
+    },
+    {
+        "_id" : 13,
+        "name" : "Skyfall",
+        "director" : "Sam Mendes",
+        "release_date" : {
+            "year" : 2012,
+            "month" : 11,
+            "day" : 1
+        },
+        "gender" : "Action",
+        "cast" : [
+            "Daniel Craig",
+            "Javier Bardem"
+        ],
+        "franchise" : "007",
+        "country" : "United States",
+        "clasification" : "PG-13",
+        "sinopsis": "El famoso agente britanico tendra que poner a prueba su fidelidad y amistad hacia M, cuando la experimentada jefa del servicio de inteligencia comience a ser acosada por su pasado. James Bond tendra que averiguar de donde procede el foco del peligro para poder atajarlo y mantener a salvo no solo a M, sino a toda la agencia e incluso a si mismo."   
+    }
+]
